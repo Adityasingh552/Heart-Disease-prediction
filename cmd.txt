@@ -1,0 +1,3 @@
+Command to run for running App.py in terminal
+
+streamlit run 'c:\Users\Dell\OneDrive\Desktop\Machine Learning Project\Heart-disease-prediction\App.py'
