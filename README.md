@@ -21,3 +21,6 @@ Machine Learning Models:
 Accuracy achieved: 100% (Random Forest, Decision Tree, XGBoost)
 
 Dataset Used:- https://www.kaggle.com/datasets/johnsmith88/heart-disease-dataset
+
+
+Access this model : https://predict-heart-diseas.streamlit.app/
